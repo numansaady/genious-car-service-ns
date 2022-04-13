@@ -1,0 +1,13 @@
+.service-item {
+  padding: 10px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px lightgrey;
+  transition: all 0.4s;
+}
+.service-item img {
+  border-radius: 10px;
+}
+.service-item:hover {
+  box-shadow: 2px 2px 40px lightgrey;
+}
