@@ -1,0 +1,17 @@
+.reg-form {
+  margin: 30px auto;
+  width: 50%;
+  text-align: center;
+}
+.reg-form form input {
+  display: block;
+  height: 50px;
+  width: 70%;
+  margin: 30px auto;
+  border: 1px solid lightgrey;
+  padding: 0 10px;
+  border-radius: 10px;
+}
+.reg-form a {
+  text-decoration: none;
+}
