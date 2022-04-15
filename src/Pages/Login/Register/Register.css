@@ -3,7 +3,7 @@
   width: 50%;
   text-align: center;
 }
-.reg-form form input {
+.reg-form form input:not([type=checkbox]) {
   display: block;
   height: 50px;
   width: 70%;
